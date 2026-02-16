@@ -1,6 +1,6 @@
 # Test Site
 
-A secure, responsive static website template for showcasing products and services.
+A secure, responsive static test website template for showcasing products and services.
 
 ## Features
 
@@ -92,7 +92,7 @@ The contact form currently shows a success message on submit. To connect it to a
 
 ## License
 
-Free to use for personal and commercial projects.
+Free to use for personal projects.
 
 ## Credits
 
